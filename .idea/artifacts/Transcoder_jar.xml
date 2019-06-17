@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Transcoder:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Transcoder_jar</output-path>
+    <root id="archive" name="Transcoder.jar">
+      <element id="module-output" name="Transcoder" />
+    </root>
+  </artifact>
+</component>
